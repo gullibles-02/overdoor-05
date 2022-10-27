@@ -1,10 +1,13 @@
 {
-  "name": "u69TTmxRdrsaSFj2dPJQhpdlERIhgCtVNfVLRLe7muObPb9y4f",
+  "name": "หวยลาวสามัคคี ที่ไหน - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "หวยลาวสามัคคี หวยลาวงวดนี้ออกอะไร หากว่า หวยลาวสามัคคี Huay หวย หวยออนไลน์ มีหวยทุกชนิด แนะนำเลขเด็ดหวยลาวเจ้ฟองเบียร์วันนี้ แม่น ๆ วันที่ 25365 ของ เจ้ฟอง",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": ["หวยลาวสามัคคี","หวยลาวสามัคคี Huay"],
+  "keywords": [
+    "หวยลาวสามัคคี",
+    "หวยลาวสามัคคี Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
