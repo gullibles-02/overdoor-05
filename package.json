@@ -1,13 +1,10 @@
 {
-  "name": "ฮั่งเส็งเช้าออกกี่โมง ได้อย่างไร - เว็บใหม่ huaydee 2023 ล่าสุด",
+  "name": "oHlGPtRVbvnLgYy7ICTQVRMNoaEooiBbSyzVwiYS8QJNNmEUrI",
   "theme": "syntax",
   "version": "1.0.13",
   "description": "ฮั่งเส็งเช้าออกกี่โมง ผลการออกรางวัล แต่ ฮั่งเส็งเช้าออกกี่โมง Huaydee หวยดี หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พ",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": [
-    "ฮั่งเส็งเช้าออกกี่โมง",
-    "ฮั่งเส็งเช้าออกกี่โมง Huaydee"
-  ],
+  "keywords": ["ฮั่งเส็งเช้าออกกี่โมง","ฮั่งเส็งเช้าออกกี่โมง Huaydee"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
