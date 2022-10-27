@@ -1,16 +1,10 @@
 {
-  "name": "zuri zanzibar สมัครยังไง - เว็บใหม่ nova88 2023 ล่าสุด",
+  "name": "LRO2cfaZr62PMjeSXCMY5N9K2QnFzne2EIpLETvvgq35gSfeXJ",
   "theme": "syntax",
   "version": "1.0.19",
   "description": "zuri zanzibar Game เท่ากับ zuri zanzibar ที่ Nova88 เว็บพนัน อันดับหนึ่ง Slot Zeus เกมสล็อตออนไลน์ เทพเจ้าสายฟ้า เกมยอดนิยม จากทางค่าย Pragmatic Slot ที่หา",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": [
-    "ZURI ZANZIBAR",
-    "ZURI",
-    "ZANZIBAR",
-    "ZURI Nova88",
-    "ZANZIBAR Nova88"
-  ],
+  "keywords": ["ZURI ZANZIBAR","ZURI","ZANZIBAR","ZURI Nova88","ZANZIBAR Nova88"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
