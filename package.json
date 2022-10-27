@@ -1,10 +1,18 @@
 {
-  "name": "9SUZMVY9dpFTkeiokgDYpHy7chFHU7M3jrYC3aj4FsbjvS2TPb",
+  "name": "live score stream ที่ไหน - เว็บใหม่ huay999 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "live score stream เลขเด็ด แม้น live score stream Huay999 หวย999 หวยออนไลน์ มีหวยทุกชนิด live score stream ที่เว็บไซต์หวยไทยของเราจะนำเสนอเป็นแนวทางในวันนี้",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": ["LIVE SCORE STREAM","LIVE","SCORE","STREAM","LIVE Huay999","SCORE Huay999","STREAM Huay999"],
+  "keywords": [
+    "LIVE SCORE STREAM",
+    "LIVE",
+    "SCORE",
+    "STREAM",
+    "LIVE Huay999",
+    "SCORE Huay999",
+    "STREAM Huay999"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
