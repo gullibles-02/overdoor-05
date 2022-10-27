@@ -1,10 +1,13 @@
 {
-  "name": "3JXx6kb53Bv21wyAEQi0PnDFaEH88Az38QgPBTjCFjOSSAohpK",
+  "name": "หวยฮานอยล็อคได้ไหม เล่นยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.57",
   "description": "หวยฮานอยล็อคได้ไหม หวยลาว เพื่อ หวยฮานอยล็อคได้ไหม ที่ Huaysod เว็บหวยออนไลน์ อันดับหนึ่ง ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ในขณะน",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": ["หวยฮานอยล็อคได้ไหม","หวยฮานอยล็อคได้ไหม Huaysod"],
+  "keywords": [
+    "หวยฮานอยล็อคได้ไหม",
+    "หวยฮานอยล็อคได้ไหม Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
