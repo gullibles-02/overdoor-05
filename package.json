@@ -1,10 +1,13 @@
 {
-  "name": "kbVOS1IPplTdGOoa7A9kLLPNH1XO4QHagxAHYqz32ufclZufYW",
+  "name": "เว็บหวยทั้งหมด เล่นยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "เว็บหวยทั้งหมด วิ่งรูด ถึง เว็บหวยทั้งหมด ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง 1 9ขอให้สนุกกับการซื้อหวยออนไลน์งวดนี้ค่ะเลข เว็บหวยทั้งหมด 3 ตัว        ",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": ["เว็บหวยทั้งหมด","เว็บหวยทั้งหมด 999Lucky"],
+  "keywords": [
+    "เว็บหวยทั้งหมด",
+    "เว็บหวยทั้งหมด 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
