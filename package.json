@@ -1,10 +1,13 @@
 {
-  "name": "aUmVYdUSaX1vW09bGtGxTGZnkWdTut0WIDIUQvu0XazO0AJGk9",
+  "name": "กลุ่มหวยฮานอยแม่นๆ เลือกยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.60",
   "description": "กลุ่มหวยฮานอยแม่นๆ ตรวจผลการออกรางวัล ถ้า กลุ่มหวยฮานอยแม่นๆ Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด หวยหุ้นอังกฤษ เช็คผลหุ้นอังกฤษ ประจำงวดวันที่ 03 ",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": ["กลุ่มหวยฮานอยแม่นๆ","กลุ่มหวยฮานอยแม่นๆ Thailotto"],
+  "keywords": [
+    "กลุ่มหวยฮานอยแม่นๆ",
+    "กลุ่มหวยฮานอยแม่นๆ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
