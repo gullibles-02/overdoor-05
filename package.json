@@ -1,16 +1,10 @@
 {
-  "name": "ประวัติ หวยไทย ทำไมถึงนิยม - เว็บใหม่ huay 2023 ล่าสุด",
+  "name": "aUP42QjFq46M6GmsfAQnf0JWCkfkPVhmmCswgl81xjbFS7Pxan",
   "theme": "syntax",
   "version": "1.0.74",
   "description": "ประวัติ หวยไทย เป็นอย่างไรบ้างครับเทคนิคของเราที่ได้ให้ไว้ เท่ากับ ประวัติ หวยไทย Huay หวย หวยออนไลน์ มีหวยทุกชนิด ท่านสมาชิกสามารถนำไปใช้ในการซื้อหวยของท่",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": [
-    "ประวัติ หวยไทย",
-    "ประวัติ",
-    "หวยไทย",
-    "ประวัติ Huay",
-    "หวยไทย Huay"
-  ],
+  "keywords": ["ประวัติ หวยไทย","ประวัติ","หวยไทย","ประวัติ Huay","หวยไทย Huay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
