@@ -1,10 +1,13 @@
 {
-  "name": "psKonuALEzI6fl4hZfD6svoqaMeHfvXC0abjcAyvxDACAKIqQ5",
+  "name": "ดัชนีไต้หวัน คืออะไร - เว็บใหม่ huaydee 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.80",
   "description": "ดัชนีไต้หวัน 839 หรือ ดัชนีไต้หวัน ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง 482 583 863 ดัชนีไต้หวัน 369 632 268 689สำหรับใครที่ไม่หยากพลาด เลขเด็ดหวยซองแม่น",
   "repository": "https://github.com/gullibles-02/overdoor-05",
-  "keywords": ["ดัชนีไต้หวัน","ดัชนีไต้หวัน Huaydee"],
+  "keywords": [
+    "ดัชนีไต้หวัน",
+    "ดัชนีไต้หวัน Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
